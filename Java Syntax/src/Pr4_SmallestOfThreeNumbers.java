@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SmallestOfThreeNumbers {
+public class Pr4_SmallestOfThreeNumbers {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

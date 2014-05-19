@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DecimalToHexadecimal {
+public class Pr5_DecimalToHexadecimal {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

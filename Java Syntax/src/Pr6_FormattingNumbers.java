@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FormattingNumbers {
+public class Pr6_FormattingNumbers {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

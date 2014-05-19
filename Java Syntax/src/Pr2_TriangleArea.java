@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TriangleArea {
+public class Pr2_TriangleArea {
 
 	public static void main(String[] args) {
 		
@@ -12,7 +12,7 @@ public class TriangleArea {
 		double cy = input.nextDouble();
 		double area = (ax * (by - cy ) + bx * (cy - ay) + cx * (ay - by)) / 2;
 		
-		System.out.println((int)area);
+		System.out.println((int)Math.abs(area));
 	}
 
 }

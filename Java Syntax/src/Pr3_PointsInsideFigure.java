@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PointsInsideFigure {
+public class Pr3_PointsInsideFigure {
 
 	public static void main(String[] args) {
 		

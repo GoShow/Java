@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CountOfBitsOne {
+public class Pr7_CountOfBitsOne {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
